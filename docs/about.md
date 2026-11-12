@@ -14,9 +14,9 @@ LanMonitor 是一套自主研发的局域网桌面监控系统，专注于为获
 商务合作、产品试用、授权购买与技术支持，欢迎通过 QQ 联系：
 
 <div class="biz-scene" style="margin-bottom:32px;">
-  <h3>QQ：334132462</h3>
+  <h3>QQ：1226518520</h3>
   <p>
-    <a href="https://wpa.qq.com/msgrd?v=3&uin=334132462&site=qq&menu=yes" target="_blank" rel="noopener">点击发起 QQ 临时会话</a>
+    <a href="https://wpa.qq.com/msgrd?v=3&uin=1226518520&site=qq&menu=yes" target="_blank" rel="noopener">点击发起 QQ 临时会话</a>
     （添加好友时请说明来意与单位，方便我们更快响应）
   </p>
 </div>
@@ -38,6 +38,6 @@ LanMonitor 是一套自主研发的局域网桌面监控系统，专注于为获
 <div class="biz-cta">
   <h2>开始使用 LanMonitor</h2>
   <p>免费试用版支持 1 台客户端在线、不限时长，下载即可体验完整功能。</p>
-  <a class="biz-qq" href="https://wpa.qq.com/msgrd?v=3&uin=334132462&site=qq&menu=yes" target="_blank" rel="noopener">QQ 咨询：334132462</a>
+  <a class="biz-qq" href="https://wpa.qq.com/msgrd?v=3&uin=1226518520&site=qq&menu=yes" target="_blank" rel="noopener">QQ 咨询：1226518520</a>
   <a class="biz-qq biz-qq-plain" href="/lanmonitor-site/product/">了解产品功能</a>
 </div>

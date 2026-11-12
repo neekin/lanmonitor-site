@@ -45,6 +45,6 @@ LanMonitor 采用**离线 license 授权**：授权绑定服务端机器码，�
 <div class="biz-cta">
   <h2>购买与授权咨询</h2>
   <p>请通过 QQ 联系我们，说明接入规模与使用场景，我们将推荐合适的版本并提供报价。</p>
-  <a class="biz-qq" href="https://wpa.qq.com/msgrd?v=3&uin=334132462&site=qq&menu=yes" target="_blank" rel="noopener">QQ 咨询：334132462</a>
+  <a class="biz-qq" href="https://wpa.qq.com/msgrd?v=3&uin=1226518520&site=qq&menu=yes" target="_blank" rel="noopener">QQ 咨询：1226518520</a>
   <a class="biz-qq biz-qq-plain" href="/lanmonitor-site/product/">返回产品概述</a>
 </div>

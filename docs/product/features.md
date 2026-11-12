@@ -93,6 +93,6 @@
 <div class="biz-cta">
   <h2>需要了解更多？</h2>
   <p>欢迎联系我们获取产品演示、试用与报价。</p>
-  <a class="biz-qq" href="https://wpa.qq.com/msgrd?v=3&uin=334132462&site=qq&menu=yes" target="_blank" rel="noopener">QQ 咨询：334132462</a>
+  <a class="biz-qq" href="https://wpa.qq.com/msgrd?v=3&uin=1226518520&site=qq&menu=yes" target="_blank" rel="noopener">QQ 咨询：1226518520</a>
   <a class="biz-qq biz-qq-plain" href="/lanmonitor-site/product/license">查看版本与授权</a>
 </div>

@@ -21,7 +21,7 @@ export default defineConfig({
       { text: '产品与服务', link: '/product/' },
       { text: '关于我们', link: '/about' },
       {
-        text: 'QQ 交流：334132462',
+        text: 'QQ 交流：1226518520',
         link: '/about'
       }
     ],
@@ -52,7 +52,7 @@ export default defineConfig({
       message:
         '本软件仅限在获得明确授权的环境中使用，请确保被监控人员已被告知。',
       copyright:
-        'Copyright © 2026 LanMonitor · 商务合作与技术支持：QQ 334132462'
+        'Copyright © 2026 LanMonitor · 商务合作与技术支持：QQ 1226518520'
     },
 
     docFooter: { prev: '上一页', next: '下一页' },

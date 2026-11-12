@@ -71,6 +71,6 @@ LanMonitor 是一套**服务端 + 客户端**架构的局域网桌面监控系�
 <div class="biz-cta">
   <h2>获取产品与试用</h2>
   <p>免费试用版支持 1 台客户端在线、不限时长；基础版 / 专业版 / 企业版可按接入规模选购。</p>
-  <a class="biz-qq" href="https://wpa.qq.com/msgrd?v=3&uin=334132462&site=qq&menu=yes" target="_blank" rel="noopener">QQ 咨询：334132462</a>
+  <a class="biz-qq" href="https://wpa.qq.com/msgrd?v=3&uin=1226518520&site=qq&menu=yes" target="_blank" rel="noopener">QQ 咨询：1226518520</a>
   <a class="biz-qq biz-qq-plain" href="/lanmonitor-site/product/license">查看版本与授权</a>
 </div>

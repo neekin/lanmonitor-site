@@ -10,6 +10,9 @@ hero:
     alt: LanMonitor
   actions:
     - theme: brand
+      text: 下载软件
+      link: /downloads/
+    - theme: alt
       text: 了解产品功能
       link: /product/
     - theme: alt
@@ -86,4 +89,5 @@ features:
   <p>免费试用版支持 1 台客户端在线、不限时长。需要更多接入名额或企业版授权，欢迎联系我们洽谈。</p>
   <a class="biz-qq" href="https://wpa.qq.com/msgrd?v=3&uin=1226518520&site=qq&menu=yes" target="_blank" rel="noopener">QQ 咨询：1226518520</a>
   <a class="biz-qq biz-qq-plain" href="/lanmonitor-site/product/license">查看版本与授权</a>
+  <a class="biz-qq biz-qq-plain" href="/lanmonitor-site/downloads/">下载软件</a>
 </div>

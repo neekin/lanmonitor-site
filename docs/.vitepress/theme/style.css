@@ -37,6 +37,70 @@
 
 /* ---------- 首页自定义区块 ---------- */
 
+/* 下载页 */
+.download-grid {
+  display: grid;
+  grid-template-columns: repeat(3, minmax(0, 1fr));
+  gap: 16px;
+  margin: 28px 0;
+}
+.download-card {
+  display: flex;
+  flex-direction: column;
+  border: 1px solid var(--vp-c-divider);
+  border-radius: 12px;
+  padding: 24px 20px;
+  background: var(--vp-c-bg-soft);
+}
+.download-card h2 {
+  border: 0;
+  margin: 16px 0 8px;
+  padding: 0;
+  font-size: 20px;
+  line-height: 1.5;
+}
+.download-card p {
+  margin: 8px 0;
+  font-size: 14px;
+  line-height: 1.8;
+  color: var(--vp-c-text-2);
+}
+.download-card .download-platform {
+  font-weight: 600;
+  color: var(--vp-c-text-1);
+}
+.download-tag {
+  align-self: flex-start;
+  padding: 3px 10px;
+  border-radius: 20px;
+  font-size: 12px;
+  color: var(--vp-c-brand-1);
+  background: var(--vp-c-brand-soft);
+}
+.download-card .download-runtime {
+  margin-bottom: 18px;
+}
+.download-card a.download-button {
+  margin-top: auto;
+  padding: 10px 12px;
+  border-radius: 8px;
+  background: var(--vp-c-brand-1);
+  color: white;
+  text-align: center;
+  text-decoration: none;
+  font-size: 14px;
+  font-weight: 600;
+}
+.download-card a.download-button:hover {
+  background: var(--vp-c-brand-2);
+}
+.dark .download-card a.download-button {
+  color: #0f172a;
+}
+@media (max-width: 760px) {
+  .download-grid { grid-template-columns: 1fr; }
+}
+
 /* 功能卡片图标（Iconify CDN 图标） */
 .VPFeature .icon {
   color: var(--vp-c-brand-1);

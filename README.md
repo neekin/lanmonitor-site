@@ -29,7 +29,14 @@ docs/
 │  ├─ features.md        # 核心功能
 │  └─ license.md         # 版本与授权
 ├─ about.md              # 关于我们（联系方式）
+├─ downloads/index.md    # 桌面端与两种 agent 的公开下载
 └─ .vitepress/
    ├─ config.mts         # 站点配置
    └─ theme/             # 自定义主题（商务深蓝风格）
 ```
+
+## 公开安装包
+
+下载页只链接本仓库 Releases 中的桌面管理端、现代版 agent 和 Win7 agent，访客无需 GitHub 权限。固定下载地址采用 `releases/latest/download/LanMonitor-<类型>.zip`，发布新版本后无需修改页面链接。
+
+源码仓库保持私有。公开发布由源码仓库的 `scripts/publish-public-downloads.py` 按三种安装包白名单执行，校验 SHA-256 和包内配置后再上传；注册机、Web 服务端、私钥和运行数据不进入官网公开下载。

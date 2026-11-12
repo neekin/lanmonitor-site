@@ -23,6 +23,7 @@ export default defineConfig({
     nav: [
       { text: '首页', link: '/' },
       { text: '产品与服务', link: '/product/' },
+      { text: '下载', link: '/downloads/' },
       { text: '关于我们', link: '/about' },
       {
         text: 'QQ 交流：1226518520',
@@ -49,7 +50,7 @@ export default defineConfig({
     },
 
     socialLinks: [
-      { icon: 'github', link: 'https://github.com/neekin/LanMonitor' }
+      { icon: 'github', link: 'https://github.com/neekin/lanmonitor-site' }
     ],
 
     footer: {

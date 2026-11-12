@@ -20,22 +20,22 @@ hero:
       link: /about
 
 features:
-  - icon: 🎥
+  - icon: '<iconify-icon icon="tabler:video" width="28" height="28" aria-hidden="true"></iconify-icon>'
     title: 无人值守自动录屏
     details: 客户端自动分段录制屏幕并上传归档，服务端按整点合并为 MP4。断线自动补传，无需人工盯屏。
-  - icon: 🖥️
+  - icon: '<iconify-icon icon="tabler:device-desktop" width="28" height="28" aria-hidden="true"></iconify-icon>'
     title: 实时屏幕查看
     details: 双击主机即可观看实时画面，浏览器 MJPEG 流直接播放。帧率画质可调，支持多显示器切换。
-  - icon: 🔍
+  - icon: '<iconify-icon icon="tabler:radar" width="28" height="28" aria-hidden="true"></iconify-icon>'
     title: 服务端自动发现
     details: 客户端无需配置服务端 IP，服务端 UDP 广播宣告、客户端静默接入，上线即自动组网。
-  - icon: 🛠️
+  - icon: '<iconify-icon icon="tabler:tools" width="28" height="28" aria-hidden="true"></iconify-icon>'
     title: 远程运维控制
     details: 远程鼠标键盘操作、进程与窗口监控、远程结束进程，问题处理不必再跑到工位。
-  - icon: 🛡️
+  - icon: '<iconify-icon icon="tabler:shield-check" width="28" height="28" aria-hidden="true"></iconify-icon>'
     title: 稳定防关闭机制
     details: SYSTEM 服务、崩溃自恢复、开机自启、断线静默重连与会话助手自愈，长期值守可靠运行。
-  - icon: 🔑
+  - icon: '<iconify-icon icon="tabler:key" width="28" height="28" aria-hidden="true"></iconify-icon>'
     title: 离线授权 · 自动升级
     details: 机器码绑定的 RSA 签名离线 license，客户端核心自动升级，签名校验、失败自动回滚。
 ---

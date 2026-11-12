@@ -11,7 +11,11 @@ export default defineConfig({
   base: '/lanmonitor-site/',
   ignoreDeadLinks: true,
 
-  head: [['link', { rel: 'icon', type: 'image/svg+xml', href: '/logo.svg' }]],
+  head: [
+    ['link', { rel: 'icon', type: 'image/svg+xml', href: '/logo.svg' }],
+    // Iconify 图标组件（Tabler 图标库，jsDelivr CDN 分发）
+    ['script', { src: 'https://cdn.jsdelivr.net/npm/iconify-icon@2.1.0/dist/iconify-icon.min.js' }]
+  ],
 
   themeConfig: {
     logo: '/logo.svg',

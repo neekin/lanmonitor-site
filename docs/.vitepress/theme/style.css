@@ -37,6 +37,16 @@
 
 /* ---------- 首页自定义区块 ---------- */
 
+/* 功能卡片图标（Iconify CDN 图标） */
+.VPFeature .icon {
+  color: var(--vp-c-brand-1);
+  background-color: var(--vp-c-brand-soft);
+}
+
+.dark .VPFeature .icon {
+  color: var(--vp-c-brand-2);
+}
+
 /* 章节标题 */
 .biz-section {
   padding-top: 48px;

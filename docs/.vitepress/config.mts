@@ -5,7 +5,7 @@ export default defineConfig({
   title: 'LanMonitor',
   titleTemplate: ':title · 局域网桌面监控系统',
   description:
-    'LanMonitor 是一套服务端 + 客户端架构的局域网桌面监控系统，提供无人值守自动录屏、实时屏幕查看、远程控制、进程监控、离线授权与客户端自动升级，适用于企业终端管理、机房教学管理等获得明确授权的场景。',
+    'LanMonitor 是一套服务端 + 客户端架构的局域网桌面监控系统，提供无人值守自动录屏、实时屏幕查看、远程控制、进程监控、离线授权与客户端自动升级，适用于企业终端管理等获得明确授权的场景。',
 
   // GitHub Pages 项目页部署路径
   base: '/lanmonitor-site/',
